@@ -1,0 +1,52 @@
+body{
+    
+        margin: 0;
+        padding: 0;
+    }
+    .Container{
+        margin: 20px 40px;
+        padding: 20px;
+        border-radius: 10px;
+        border: 1px solid #ccc;
+        background-color: #ccc;
+        width: 500px;
+    }
+    .heading{
+        font-family: monospace;
+        font-size: 24px;
+        font-weight: bold;
+        color: #00698f;
+    }
+    .span-text{
+        text-transform: uppercase;
+        font-size: 18px;
+        color: #666;
+    }
+    .image{
+        margin: 10px;
+        width: 200px;
+        height: 200px;
+        border-radius: 100%;
+        border: 1px solid #ccc;
+    }
+    .p1{
+        border-style: solid dashed;
+        border-width: 5px;
+        border-color: red;
+        margin: 10px;
+        padding: 10px;
+    }
+    .p2{
+        margin: 5px;
+        line-height: 25px;
+        text-align: center;
+        font-style: italic;
+    
+    }
+    li{
+        list-style-type: circle ;
+    }
+    .list{
+        font-size: 18px;
+        color: #666;
+    }
